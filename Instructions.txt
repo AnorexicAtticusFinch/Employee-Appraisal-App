@@ -1,0 +1,4 @@
+1. Start MongoDB
+2. In the NodeJS folder, run "node main.js"
+3. In the Angular folder, run "npm update"
+4. In the Angular folder, run "ng serve --open"
